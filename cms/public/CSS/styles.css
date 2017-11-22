@@ -1,0 +1,180 @@
+#top{
+	text-align: center;
+	padding: 15px;
+	margin: 0px;
+	background-color: #34495E;
+	color: #ececec;
+	font-family: 'Arvo', serif;
+}
+.top2{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 25px;
+	margin:0px;
+	padding: 0px;
+	word-spacing: 15px;
+}
+
+li.selected{
+	font-weight: bold;
+}
+
+.select{
+	font-weight: bold;
+}
+
+footer{
+	position: absolute;
+	bottom: 0px;
+	width:1370px;
+	height: 50px;
+	background-color: #34495E;
+	color: #ececec;
+	text-align: center;
+	font-size: 25px;
+}
+
+.content-list{
+ 	
+ 	margin-left: 25px;
+}
+
+.content-list li{
+	list-style-type: square;
+	margin-bottom: 10px;
+}
+
+.right-menu-admin{
+	float: right;
+	width: 700px;
+	height: 400px;
+	margin: 0px;
+	padding: 0px;
+	font-size: 25px;
+	text-align: l
+}
+
+.right-menu-admin li{
+    margin-top: 15px;
+	list-style-type: none;
+}
+
+.right-menu{
+	float: right;
+	width: 700px;
+	height: 400px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.right-menu li{
+	padding: 6px;
+}
+
+.left-menu-content a{
+	text-decoration: none;
+	font-family: 'Fjalla One', sans-serif;
+	text-align: left;
+}
+
+.left-menu-content a:link{
+	text-decoration: none;
+	font-family: 'Fjalla One', sans-serif;
+	color:#ececec;
+	text-align: left;
+}
+
+.left-menu-content a:hover{
+	text-decoration: none;
+	font-family: 'Fjalla One', sans-serif;
+	color:#BDC3C7;
+	text-align: left;
+}
+
+.left-menu-content{
+	float: left;
+	color: #ececec;
+	list-style-type: none;
+	padding-top: 25px;
+	font-family: 'Fjalla One', sans-serif;
+	width: 300px;
+	height: 600px;
+	margin: 0px;
+	background-color: #67809F;
+	font-size: 25px;
+	padding: 0px;
+	background-color: 
+}
+
+.left-menu{
+	float: left;
+	width: 500px;
+	height: 500px;
+	margin: 0px;
+	font-size: 25px;
+	padding: 0px;
+}
+
+.left-menu li{
+	margin-top: 15px;
+}
+
+body{
+	margin: 0px;
+}
+
+.left-menu li a:visited{
+	color: black;
+}
+
+.right-menu li a:visited{
+	color: black;
+}
+
+.left-menu li a:link{
+	color: red;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li a{
+	display: block;
+    text-align: center;
+}
+.right-nav{
+	
+	float: right;
+}
+
+.left-nav{
+	display: inline;
+	float: left;
+}
+
+.subject-form{
+	padding:0px;
+	margin: 25px;
+	font-size: 20px;
+}
+
+.subject-form input{
+	font-size: 20px;
+}
+
+.admin-form{
+	padding:0px;
+	margin: 0px auto;
+	display: block;
+	font-size: 20px;
+	text-align: center;
+}
+
+.message{
+	border: 1em solid;
+	padding: 1em solid;
+	
+}
